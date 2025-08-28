@@ -1,0 +1,7 @@
+record_id,Data_json
+1,"{""phone"": ""9876543210"", ""order_value"": 1299}"
+2,"{""name"": ""John Smith"", ""email"": ""john@gmail.com""}"
+3,"{""email"": ""solo@email.com"", ""city"": ""Bengaluru""}"
+4,"{""aadhar"": ""1234 5678 9012"", ""address"": ""221B Baker Street"", ""pin_code"": ""560001""}"
+5,"{""upi_id"": ""alice@upi"", ""ip_address"": ""192.168.1.42""}"
+6,"{""first_name"": ""Asha"", ""last_name"": ""Verma"", ""address"": ""MG Road"", ""pin_code"": ""400001""}"
